@@ -1,0 +1,14 @@
+{
+  "best_model": "Gradient Boosting",
+  "validation_accuracy": 0.575,
+  "validation_auc": 0.5427818797108137,
+  "test_accuracy": 0.5632798573975044,
+  "test_auc": 0.49300562253338387,
+  "feature_count": 30,
+  "training_samples": 5230,
+  "validation_samples": 1120,
+  "test_samples": 1122,
+  "date_range": "2022-01-05 to 2024-12-27",
+  "stocks_covered": 10,
+  "model_training_date": "2025-07-12 11:12:32"
+}
