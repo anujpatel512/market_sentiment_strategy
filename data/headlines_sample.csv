@@ -1,24 +1,13 @@
 ticker,headline,date,timestamp,source
-AAPL,Entertainment,2025-06-29,2025-06-29T23:09:56.466219,yahoo_finance
-AAPL,New on Yahoo,2025-06-29,2025-06-29T23:09:56.466226,yahoo_finance
-MSFT,Entertainment,2025-06-29,2025-06-29T23:09:58.181409,yahoo_finance
-MSFT,New on Yahoo,2025-06-29,2025-06-29T23:09:58.181414,yahoo_finance
-GOOGL,Entertainment,2025-06-29,2025-06-29T23:09:59.858205,yahoo_finance
-GOOGL,New on Yahoo,2025-06-29,2025-06-29T23:09:59.858210,yahoo_finance
-AMZN,Entertainment,2025-06-29,2025-06-29T23:10:01.586185,yahoo_finance
-AMZN,New on Yahoo,2025-06-29,2025-06-29T23:10:01.586190,yahoo_finance
-META,Entertainment,2025-06-29,2025-06-29T23:10:03.289127,yahoo_finance
-META,New on Yahoo,2025-06-29,2025-06-29T23:10:03.289132,yahoo_finance
-NVDA,Entertainment,2025-06-29,2025-06-29T23:10:05.305798,yahoo_finance
-NVDA,New on Yahoo,2025-06-29,2025-06-29T23:10:05.305804,yahoo_finance
-TSLA,Entertainment,2025-06-29,2025-06-29T23:10:07.192617,yahoo_finance
-TSLA,New on Yahoo,2025-06-29,2025-06-29T23:10:07.192623,yahoo_finance
-TSLA,Recent News: TSLA,2025-06-29,2025-06-29T23:10:07.192625,yahoo_finance
-TSLA,Compare to: TSLA,2025-06-29,2025-06-29T23:10:07.192627,yahoo_finance
-TSLA,Statistics: TSLA,2025-06-29,2025-06-29T23:10:07.192629,yahoo_finance
-NFLX,Entertainment,2025-06-29,2025-06-29T23:10:08.963279,yahoo_finance
-NFLX,New on Yahoo,2025-06-29,2025-06-29T23:10:08.963285,yahoo_finance
-CRM,Entertainment,2025-06-29,2025-06-29T23:10:10.807890,yahoo_finance
-CRM,New on Yahoo,2025-06-29,2025-06-29T23:10:10.807895,yahoo_finance
-ADBE,Entertainment,2025-06-29,2025-06-29T23:10:12.548540,yahoo_finance
-ADBE,New on Yahoo,2025-06-29,2025-06-29T23:10:12.548545,yahoo_finance
+AAPL,Entertainment,2025-07-23,2025-07-23T17:54:18.041206,yahoo_finance
+AAPL,New on Yahoo,2025-07-23,2025-07-23T17:54:18.041212,yahoo_finance
+MSFT,Entertainment,2025-07-23,2025-07-23T17:54:19.580234,yahoo_finance
+MSFT,New on Yahoo,2025-07-23,2025-07-23T17:54:19.580238,yahoo_finance
+NVDA,Entertainment,2025-07-23,2025-07-23T17:54:25.879452,yahoo_finance
+NVDA,New on Yahoo,2025-07-23,2025-07-23T17:54:25.879458,yahoo_finance
+TSLA,Entertainment,2025-07-23,2025-07-23T17:54:27.738397,yahoo_finance
+TSLA,New on Yahoo,2025-07-23,2025-07-23T17:54:27.738401,yahoo_finance
+NFLX,Entertainment,2025-07-23,2025-07-23T17:54:29.390940,yahoo_finance
+NFLX,New on Yahoo,2025-07-23,2025-07-23T17:54:29.390945,yahoo_finance
+ADBE,Entertainment,2025-07-23,2025-07-23T17:54:32.646331,yahoo_finance
+ADBE,New on Yahoo,2025-07-23,2025-07-23T17:54:32.646337,yahoo_finance
